@@ -14,7 +14,7 @@ tecnologias as empresas estão utilizando e uma tabela para cadastro de colabora
 ![image](https://github.com/KARLANAO/projeto_resiliadata/assets/112179212/60c2a356-2027-4202-a13c-45a0fa376146)
 Ferramenta de Modelagem - StarUML
 
-##❓Perguntas sobre o Modelo
+## Perguntas sobre o Modelo
 
 ## 1. Quais são as entidades necessárias?
 As entidades necessárias são: Empresa parceira, Tecnologia e Colaborador.
