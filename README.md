@@ -47,9 +47,8 @@ As relações ocorrem da seguinte forma:
 + Uma Empresa pode utilizar várias Tecnologias.
 
 ## 4. Simule 2 registros para cada entidade.
-|                empresas_parceiras                   |
-| :---------------------------------------------: |
-| Left-aligned   | Center-aligned | Right-aligned | Fourth Column |
-| :------------: | :------------: | :-----------: | :-----------: |
-| git status    | git status     | git status    | git status   |
-| git diff      | git diff       | git diff      | git diff     |
+
+|         empresas_parceiras        |      Coluna 1      |      Coluna 2      |      Coluna 3      |
+| :------------------------------: | :----------------: | :----------------: | :----------------: |
+|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
+|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
