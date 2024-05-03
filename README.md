@@ -48,7 +48,32 @@ As relações ocorrem da seguinte forma:
 
 ## 4. Simule 2 registros para cada entidade.
 
+empresa_parceira
+
 |         empresas_parceiras        |      Coluna 1      |      Coluna 2      |      Coluna 3      |
 | :------------------------------: | :----------------: | :----------------: | :----------------: |
 |        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
 |        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
+
+tecnologia 
+
+|      empresas_parceiras      |      Coluna 1      |      Coluna 2      |
+| :--------------------------: | :----------------: | :----------------: |
+|      Left-aligned text       |  Center-aligned text  |  Right-aligned text |
+|      Left-aligned text       |  Center-aligned text  |  Right-aligned text |
+
+
+empresa_tecnologia
+
+|      empresas_parceiras      |      Coluna 1      |
+| :--------------------------: | :----------------: |
+|      Left-aligned text       |  Center-aligned text  |
+|      Left-aligned text       |  Center-aligned text  |
+
+colaborador
+|         empresas_parceiras        |      Coluna 1      |      Coluna 2      |      Coluna 3      |
+| :------------------------------: | :----------------: | :----------------: | :----------------: |
+|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
+|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
+
+
