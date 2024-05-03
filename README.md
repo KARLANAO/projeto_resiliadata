@@ -1,4 +1,4 @@
-<h1>--> Projeto Resilia Módulo 2 - Sistema RESILIADATA</h1>
+<h1>--> Projeto Individual Módulo 2 - Sistema RESILIADATA</h1>
 
 ## 📌 Descrição do Projeto
 
