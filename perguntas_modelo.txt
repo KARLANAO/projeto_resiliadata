@@ -1,0 +1,40 @@
+﻿Perguntas Sobre o Modelo 
+
+1. Quais são as entidades necessárias?
+
+
+As entidades necessárias são: Empresa parceira, Tecnologia e Colaborador.
+
+
+2. Quais são os principais campos e seus respectivos tipos?
+
+
+Os principais campos e seus tipos são:
+
+
+Empresa Parceira: 
+ID (Inteiro) 
+Nome (Texto) 
+Localização (Texto) 
+Email (Texto)
+
+
+Tecnologia: 
+ID (Inteiro) 
+Nome (Texto) 
+Area (Texto)
+
+
+Colaborador: 
+ID (Inteiro) 
+Nome (Texto) 
+Cargo (Texto)
+ID empresa (Inteiro)
+
+
+3. Como essas entidades estão relacionadas?
+
+
+As relações ocorrem da seguinte forma:
+Cada colaborador está associado a uma Empresa.
+Uma Empresa pode utilizar várias Tecnologias.
