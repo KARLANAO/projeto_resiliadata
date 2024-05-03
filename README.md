@@ -31,12 +31,13 @@ Email (Texto)
 + Tecnologia:
 ID (Inteiro)
 Nome (Texto)
-Descrição (Texto)
+Area (Texto)
 
-+Colaborador:
++ Colaborador:
 ID (Inteiro)
 Nome (Texto)
 Cargo (Texto)
+ID empresa (Inteiro)
 
 
 
