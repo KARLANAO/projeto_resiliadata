@@ -13,4 +13,4 @@ Modelo Lógico
 
 ![image](https://github.com/KARLANAO/projeto_resiliadata/assets/112179212/60c2a356-2027-4202-a13c-45a0fa376146)
 
-Ferramenta de Modelagem - Star UML
+Ferramenta de Modelagem - StarUML
