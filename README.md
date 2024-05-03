@@ -17,7 +17,7 @@ Ferramenta de Modelagem - StarUML
 ##❓Perguntas sobre o Modelo
 
 ## 1. Quais são as entidades necessárias?
-As entidades necesárias são: Empresa parceira, Tecnologia e Colaborador.
+As entidades necessárias são: Empresa parceira, Tecnologia e Colaborador.
 
 ## 2. Quais são os principais campos e seus respectivos tipos?
 Os principais campos e seus tipos são:
