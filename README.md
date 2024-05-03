@@ -16,10 +16,10 @@ Ferramenta de Modelagem - StarUML
 
 ##❓Perguntas sobre o Modelo
 
-# 1. Quais são as entidades necessárias?
+## 1. Quais são as entidades necessárias?
 As entidades necesárias são: Empresa parceira, Tecnologia e Colaborador.
 
-# 2. Quais são os principais campos e seus respectivos tipos?
+## 2. Quais são os principais campos e seus respectivos tipos?
 Os principais campos e seus tipos são:
 
 + Empresa Parceira:
@@ -40,17 +40,16 @@ Cargo (Texto)
 
 
 
-# 3. Como essas entidades estão relacionadas?
+## 3. Como essas entidades estão relacionadas?
 As relações ocorrem da seguinte forma: 
 
 + Cada Colaborador está associado a uma Empresa.
 + Uma Empresa pode utilizar várias Tecnologias.
 
-# 4. Simule 2 registros para cada entidade.
-
-|                          empresas_parceiras                     |
-| :-------------------------------------------------------------: |
+## 4. Simule 2 registros para cada entidade.
+|                empresas_parceiras                   |
+| :---------------------------------------------: |
 | Left-aligned   | Center-aligned | Right-aligned | Fourth Column |
 | :------------: | :------------: | :-----------: | :-----------: |
-| git status     | git status     | git status    | git status    |
-| git diff       | git diff       | git diff      | git diff      |
+| git status    | git status     | git status    | git status   |
+| git diff      | git diff       | git diff      | git diff     |
