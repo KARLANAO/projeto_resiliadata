@@ -48,9 +48,9 @@ As relações ocorrem da seguinte forma:
 
 # 4. Simule 2 registros para cada entidade.
 
-|            |                   |   empresas_parceiras   |                  |                  |
-| :---------:| :---------------: | :---------------------:| :--------------: | :--------------: |
-|            |      Left-aligned | Center-aligned         | Right-aligned    | New Column       |
-| :---------:| :---------------: | :---------------------:|     :---:        |     ---          |
-|    Conteúdo|    git status     |   git status           |    git status    |   Content        |
-|    Conteúdo|     git diff      |    git diff            |       git diff   |   Content        |
+|                          empresas_parceiras                     |
+| :-------------------------------------------------------------: |
+| Left-aligned   | Center-aligned | Right-aligned | Fourth Column |
+| :------------: | :------------: | :-----------: | :-----------: |
+| git status     | git status     | git status    | git status    |
+| git diff       | git diff       | git diff      | git diff      |
