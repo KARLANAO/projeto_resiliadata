@@ -22,13 +22,13 @@ As entidades necesárias são: Empresa parceira, Tecnologia e Colaborador.
 # 2. Quais são os principais campos e seus respectivos tipos?
 Os principais campos e seus tipos são:
 
-+Empresa Parceira:
++ Empresa Parceira:
 ID (Inteiro)
 Nome (Texto)
 Localização (Texto)
 Email (Texto)
 
-+Tecnologia:
++ Tecnologia:
 ID (Inteiro)
 Nome (Texto)
 Descrição (Texto)
@@ -48,7 +48,9 @@ As relações ocorrem da seguinte forma:
 
 # 4. Simule 2 registros para cada entidade.
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+|      empresas_parceiras      |                  |                 |                  |
+| :--------------------------: | :--------------: | :-------------: | :--------------: |
+|        Left-aligned          | Center-aligned   | Right-aligned   | New Column       |
+| :--------------------------: |     :---:        |          ---:   |     ---          |
+|         git status           |   git status     |    git status   |   Content        |
+|          git diff            |    git diff      |       git diff  |   Content        |
