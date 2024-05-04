@@ -58,23 +58,23 @@ empresa_parceira
 
 tecnologia 
 
-|      empresas_parceiras      |      Coluna 1      |      Coluna 2      |
-| :--------------------------: | :----------------: | :----------------: |
-|      Left-aligned text       |  Center-aligned text  |  Right-aligned text |
-|      Left-aligned text       |  Center-aligned text  |  Right-aligned text |
+|             id_tec           |       nome      |       area       |
+| :--------------------------: | :--------------:| :---------------:|
+|               1              |       Python    |  Desenvolvimento |
+|               2              |        C#       |  Desenvolvimento |
 
 
 empresa_tecnologia
 
-|      empresas_parceiras      |      Coluna 1      |
-| :--------------------------: | :----------------: |
-|      Left-aligned text       |  Center-aligned text  |
-|      Left-aligned text       |  Center-aligned text  |
+|         id_empresa      |     id_tec   |
+| :----------------------:| :-----------:|
+|            1            |       1      |
+|            2            |       2      |
 
 colaborador
-|         empresas_parceiras        |      Coluna 1      |      Coluna 2      |      Coluna 3      |
-| :------------------------------: | :----------------: | :----------------: | :----------------: |
-|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
-|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
+|         id_colaborador           |           nome            |        cargo           |     id_empresa      |
+| :------------------------------: | :------------------------:| :---------------------:| :----------------:  |
+|        Left-aligned text         |      Joana Maria Sales    |     Analista II        |         1           |
+|        Left-aligned text         |     José Junior Bezerra   |  Desenvolvedor Senior  |         2           |
 
 
