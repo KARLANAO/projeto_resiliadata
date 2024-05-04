@@ -51,10 +51,10 @@ As relações ocorrem da seguinte forma:
 
 empresa_parceira
 
-|         empresas_parceiras        |      Coluna 1      |      Coluna 2      |      Coluna 3      |
-| :------------------------------: | :----------------: | :----------------: | :----------------: |
-|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
-|        Left-aligned text         |    Center-aligned text    |    Right-aligned text   |    Fourth column    |
+|           id_empresa             |        nome        |       localizacao       |            email              |
+| :------------------------------: | :----------------: |:-----------------------:|:-----------------------------:|
+|               1                  |        TOTVS       |      SÃO PAULO -SP      |      contatoTOTVS@gmail.com   |
+|               2                  |        IBMR        |     RIO DE JANEIRO -RJ  |      contatoIBMR@gmail.com    |
 
 tecnologia 
 
